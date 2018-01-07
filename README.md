@@ -1,1 +1,2 @@
-//DESCRIPTION GOES HERE
+firebase simple code.
+refer to get data from firebase.
