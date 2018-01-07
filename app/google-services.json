@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "222629291553",
+    "firebase_url": "https://test-adik.firebaseio.com",
+    "project_id": "test-adik",
+    "storage_bucket": "test-adik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222629291553:android:0fb3e1bd2a526308",
+        "android_client_info": {
+          "package_name": "com.adik.testttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222629291553-at7j01q1nghdtfa7qr458d3uk5urn6v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adik.testttt",
+            "certificate_hash": "e383fa39875a6112c31a05b4f12d7c2f9004aa47"
+          }
+        },
+        {
+          "client_id": "222629291553-b7r3hjh8toue7jri2vejj47176fmu58j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTow1VkeTAIZA_RceGEs-3efDgaX_jAK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222629291553-b7r3hjh8toue7jri2vejj47176fmu58j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
