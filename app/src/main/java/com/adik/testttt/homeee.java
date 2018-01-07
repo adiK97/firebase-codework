@@ -15,6 +15,10 @@ import java.security.PrivateKey;
 
 public class homeee extends AppCompatActivity {
 
+
+
+    public void aa()
+    {}
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -50,6 +54,7 @@ mch.addValueEventListener(new ValueEventListener() {
         // Failed to read value
     }
 });
+
 
 
 }

@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/testttt.iml" filepath="$PROJECT_DIR$/testttt.iml" />
+      <module fileurl="file://F:\final\finalll\firebase-codework\app\app.iml" filepath="F:\final\finalll\firebase-codework\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/firebase-codework.iml" filepath="$PROJECT_DIR$/.idea/firebase-codework.iml" />
+      <module fileurl="file://F:\final\finalll\firebase-codework\testttt.iml" filepath="F:\final\finalll\firebase-codework\testttt.iml" />
     </modules>
   </component>
 </project>
